@@ -1,4 +1,4 @@
-asgiref==3.5.0
+asgiref==3.5.2
 attrs==22.1.0
 backports.zoneinfo==0.2.1
 bottle==0.12.19
