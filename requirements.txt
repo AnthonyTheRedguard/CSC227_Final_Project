@@ -10,7 +10,7 @@ distlib==0.3.6
 Django==3.2.16
 djangorestframework==3.13.1
 filelock==3.4.1
-httpie==3.1.0
+httpie==2.6.0
 idna==3.3
 iniconfig==1.1.1
 multidict==6.0.2
