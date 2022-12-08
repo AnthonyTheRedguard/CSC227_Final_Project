@@ -46,7 +46,7 @@ def main():
     vendor_money = 100.00
     encumbrance = 0
     sodas = 0
-    failed_attempts = 21
+    failed_attempts = 0
 
     print("As you're walking down the street, you notice a strange looking vending machine. You're feeling quite \n"
           "parched, so you decide to go check it out.\n")
