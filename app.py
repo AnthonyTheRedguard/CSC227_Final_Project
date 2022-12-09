@@ -22,8 +22,8 @@ def display_menu(options, num):
     print(f'You picked option {_choice}')
     print("\n")
 
-    if 14 >= choice >= 1:
-        return choice
+    if 14 >= _choice >= 1:
+        return _choice
     else:
         print("Invalid Option. Choose a number 1-11\n")
 
