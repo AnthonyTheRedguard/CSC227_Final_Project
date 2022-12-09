@@ -1,9 +1,7 @@
 from random import randint
-from time import sleep
 
 
 def display_menu(list, i):
-    sleep(1)
     try:
         print("WOW! Such a wondrous variety of beverages to choose from!\n")
         print("1. Pepsi                        $1.00")
@@ -50,8 +48,6 @@ def main():
 
     print("As you're walking down the street, you notice a strange looking vending machine. You're feeling quite \n"
           "parched, so you decide to go check it out.\n")
-
-    sleep(4)
 
     while True:
         choice = display_menu(test_case, i)
